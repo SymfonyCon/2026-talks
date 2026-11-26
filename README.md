@@ -89,7 +89,7 @@ It's the same wall that stalled a recent generics RFC: monomorphization is free 
 After a tour of the tool, I'll take you from an everyday example to a Doom-style demo, limitations included. You'll leave with a clear mental model of AOT compilation.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/guikingone/elephc-pedal-to-the-metal-symfonycon-2026)  
 ~~Video~~  
 ~~Blog post~~
 
