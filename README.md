@@ -486,7 +486,7 @@ Our response came in two phases. First, detection: the Aikido malware feed integ
 We’ll provide concrete tips and best practices for keeping your own supply chain secure, and give an outlook into what we have planned for 2027.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://naderman.de/slippy/slides/2026-11-26-SymfonyCon-2026-Warsaw-Composer-and-Packagist-Supply-Chain-Security-Report-from-the-trenches.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
