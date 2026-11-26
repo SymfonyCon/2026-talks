@@ -161,7 +161,7 @@ Using Symfony HttpClient as a foundation, we will look at practical techniques t
 You will learn how to design a testing strategy that gives confidence without sacrificing speed, making your integrations easier to evolve and safer to maintain.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://imenezzine.github.io/symfony-con-warsaw-2026/)  
 ~~Video~~  
 ~~Blog post~~
 
