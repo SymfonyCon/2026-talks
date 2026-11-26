@@ -352,7 +352,9 @@ Because in the end, the surprising thing isn't that a mobile application can be 
 
 ~~Slides~~  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://bludevon.com/symfonycon-warsaw-2026)  
+[Code](https://github.com/feymo/symfonycon-remit-demo)  
+[Live demo](https://sfcon26.bludevon.com/expenses)
 
 By [Felix Eymonot](https://connect.symfony.com/profile/hyanda)  
 💻 on [![github](icon/github.svg) @feymo](https://github.com/feymo)  
