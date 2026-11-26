@@ -431,7 +431,7 @@ By [Anne-Julia Seitz](https://connect.symfony.com/profile/dazs)
   <dd>APIs are the foundation of our AI applications today and need to be secure. From broken authorisation and authentication to injection attacks, the OWASP API Security Top 10 identifies the most critical security issues facing APIs today. In this talk, we'll walk through the items on the list and explore these security flaws and look at how to prevent them. By the end of this session, you'll have a clear understanding of the most critical API security risks and be equipped with the knowledge to build more secure APIs.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://akrabat.com/wp-content/uploads/2026-11-26_SymfonyCon_OWASP-API-Top-10.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
