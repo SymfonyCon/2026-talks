@@ -91,7 +91,9 @@ After a tour of the tool, I'll take you from an everyday example to a Doom-style
 
 [Slides](https://speakerdeck.com/guikingone/elephc-pedal-to-the-metal-symfonycon-2026)  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[elephc · PHP to
+native assembly](https://elephc.dev/)
 
 By [Guillaume Loulier](https://connect.symfony.com/profile/guikingone)  
 💻 on [![github](icon/github.svg) @Guikingone](https://github.com/Guikingone)  
