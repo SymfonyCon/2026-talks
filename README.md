@@ -620,7 +620,7 @@ Discussion will include how agentic security research combined with human expert
 We will reflect on lessons learned, share advice for other projects and the wider PHP ecosystem, and provide practical suggestions for organizations and projects.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/edorian/fixing-php2shell-bephpug-2026)  
 ~~Video~~  
 ~~Blog post~~
 
