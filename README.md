@@ -212,7 +212,7 @@ After a quick refresher on the Model Context Protocol (MCP) and its PHP SDK (how
 We'll build them live and weigh them honestly: what saturates the context, what scales, what respects the constraints of REST/HATEOAS. You'll leave knowing which approach fits your own APIs.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://soyuka.me/talks/symfonycon-2026/)  
 ~~Video~~  
 ~~Blog post~~
 
