@@ -834,7 +834,7 @@ This is the full hunt: the tooling that finally showed us the truth, the framewo
 We finished at 1.8 seconds. You'll leave with a method for diagnosing your own cold starts, not a list of tricks to copy.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://rjanot.github.io/cold-start-autopsy-symfonycon-2026)  
 ~~Video~~  
 ~~Blog post~~
 
