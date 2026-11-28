@@ -641,7 +641,8 @@ By [Volker Dusch](https://connect.symfony.com/profile/edorian)
 We will see how to implement client-side field encryption with Doctrine and a key management system. The algorithms to use, key management and rotation: learn how to turn your database into a safe without losing your ability to query it.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://jerome.tamarelle.net/slides/2026-11-27-SymfonyCon-Warsaw-Queryable-Encryption-with-Doctrine.pdf)  
+[PostgreSQL demo](https://github.com/GromNaN/symfony-demo/tree/symfonycon-2026-encryption-postgres) · [MongoDB demo](https://github.com/GromNaN/symfony-demo/tree/symfonycon-2026-encryption-mongodb)  
 ~~Video~~  
 ~~Blog post~~
 
